@@ -1,0 +1,22 @@
+{
+  "name": "mongolia-budgeting",
+  "version": "1.0.0",
+  "description": "Break apart CSVs into budget HTMLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/mongolia-budgeting.git"
+  },
+  "author": "The Asia Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapmeld/mongolia-budgeting/issues"
+  },
+  "homepage": "https://github.com/mapmeld/mongolia-budgeting#readme",
+  "dependencies": {
+    "fast-csv": "^2.0.0"
+  }
+}
